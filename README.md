@@ -4,13 +4,13 @@
 Purpose of this election audit analysis is to see if we can create a faster and automated way to decipher election results for US Congressional precinct in Colorado. We will utilize python code to analyze and decipher who won based on popular vote. Once we are successful in creating code to show who won, we will then use this code to audit other congressional and senatorial elections moving forward. 
 
 # Election-Audit Results:
-## o	How many votes were cast in this congressional election?
-o	369,711 votes were cast
+## How many votes were cast in this congressional election?
+- 369,711 votes were cast
 ## o	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-o	County Votes:
-o	Jefferson: 10.5% (38,855)
-o	Denver: 82.8% (306,055)
-o	Arapahoe: 6.7% (24,801)
+- County Votes:
+-	Jefferson: 10.5% (38,855)
+-	Denver: 82.8% (306,055)
+-	Arapahoe: 6.7% (24,801)
 ## o	Which county had the largest number of votes?
 o	Denver (306,055)
 o	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
